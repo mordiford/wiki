@@ -10,5 +10,5 @@
 
 ## mstdn.maud.io (末代鯖)
 
-* GitHub [lindwurm/mastodon: - a mastodon instance]https://github.com/lindwurm/mastodon)
+* GitHub [lindwurm/mastodon: - a mastodon instance](https://github.com/lindwurm/mastodon)
 * [mstdn.maud.io - :don:](https://mstdn.maud.io/about)
