@@ -12,7 +12,6 @@
 | OnePlus | 3/3T | `oneplus3` | :o: | [kazari](https://github.com/mordiford/kazari-op3-kernel) | [AkaneCloud](https://cloud.akane.blue/nextcloud/s/PbGugWPefp9fFNZ?path=%2Foneplus3) |
 | Amazon | Kindle Fire HDX 8.9 (2013) | `apollo` | :o: | ✖️ | [AkaneCloud](https://cloud.akane.blue/nextcloud/s/PbGugWPefp9fFNZ?path=%2Fapollo) |
 | Google (LGE) | Nexus 5 | `hammerhead` | :o: | ✖️ | [AkaneCloud](https://cloud.akane.blue/nextcloud/s/PbGugWPefp9fFNZ?path=%2Fhammerhead) |
-| Huawei | P9 Lite | `vns` | :o: | ✖️ | [AkaneCloud](https://cloud.akane.blue/nextcloud/s/PbGugWPefp9fFNZ?path=%2Fvns) |
 | Xiaomi | Mi 5 | `gemini` | :x: | [nanami](https://github.com/mordiford/nanami-mi5-kernel) | [AkaneCloud](https://cloud.akane.blue/nextcloud/s/PbGugWPefp9fFNZ?path=%2Fgemini) |
 | Xiaomi | Mi 5s | `capricorn` | :x: | [nanami](https://github.com/mordiford/nanami-mi5-kernel) | [AkaneCloud](https://cloud.akane.blue/nextcloud/s/PbGugWPefp9fFNZ?path=%2Fcapricorn) |
 | ZUK (Lenovo) | Z2/Z2 Plus | `z2_plus` | :x: | [miyu](https://github.com/mordiford/miyu-z2-kernel) | [AkaneCloud](https://cloud.akane.blue/nextcloud/s/PbGugWPefp9fFNZ?path=%2Fz2_plus) |
@@ -26,6 +25,7 @@
 
 | Manufacturer | device | codename | have? | alucard? | DL |
 |---:|:---|:---:|:---:|:---:|:---:|
+| Huawei | P9 Lite | `vns` | :o: | ✖️ | [AkaneCloud](https://cloud.akane.blue/nextcloud/s/PbGugWPefp9fFNZ?path=%2Fvns) |
 | OnePlus | 2 | `oneplus2` | :x: | [saki](https://github.com/mordiford/saki-op2-kernel) | null |
 | Xiaomi | Mi Max Prime | `helium` | :x: | ✖️ | null |
 | HTC | A9 (Sprint) | `hiaewhl` | :x: | ✖️ | null |
