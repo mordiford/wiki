@@ -25,7 +25,7 @@
 
 | Manufacturer | device | codename | have? | alucard? | DL |
 |---:|:---|:---:|:---:|:---:|:---:|
-| Huawei | P9 Lite | `vns` | :o: | ✖️ | [AkaneCloud](https://cloud.akane.blue/nextcloud/s/PbGugWPefp9fFNZ?path=%2Fvns) |
+| Huawei | P9 Lite | `vns` | :x: | ✖️ | [AkaneCloud](https://cloud.akane.blue/nextcloud/s/PbGugWPefp9fFNZ?path=%2Fvns) |
 | OnePlus | 2 | `oneplus2` | :x: | [saki](https://github.com/mordiford/saki-op2-kernel) | null |
 | Xiaomi | Mi Max Prime | `helium` | :x: | ✖️ | null |
 | HTC | A9 (Sprint) | `hiaewhl` | :x: | ✖️ | null |
