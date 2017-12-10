@@ -26,6 +26,6 @@
 
 | Manufacturer | device | codename | have? | alucard? | DL |
 |---:|:---|:---:|:---:|:---:|:---:|
-| OnePlus | 2 | `oneplus2` | :x: | [saki](https://github.com/mordiford/saki-op2-kernel) | [gDrive](https://drive.google.com/drive/folders/0ByoQOmqDxjD7TXR5ZWt5VTBGS3M) |
-| Xiaomi | Mi Max Prime | `helium` | :x: | ✖️ | [gDrive](https://drive.google.com/drive/folders/0ByoQOmqDxjD7dS1Rb0xHbF9Rems) |
-| HTC | A9 (Sprint) | `hiaewhl` | :x: | ✖️ | [gDrive](https://drive.google.com/drive/folders/0ByoQOmqDxjD7eVlJXzBULXcyek0) |
+| OnePlus | 2 | `oneplus2` | :x: | [saki](https://github.com/mordiford/saki-op2-kernel) | null |
+| Xiaomi | Mi Max Prime | `helium` | :x: | ✖️ | null |
+| HTC | A9 (Sprint) | `hiaewhl` | :x: | ✖️ | null |
