@@ -75,7 +75,7 @@
 - SHIMADA Hirofumi / [@dejiko](https://github.com/dejiko)
 - [SAKURA Internet Inc.](https://www.sakura.ad.jp/)
 
-## Author
+## 連絡先
 
 ### hota
 
