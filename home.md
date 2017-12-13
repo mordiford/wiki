@@ -13,6 +13,7 @@ mordiford の wiki です。 [Wiki.js](https://wiki.js.org/) で動いていま�
 	* [nougat](/aicp/nougat)
 		* [Downloads](/aicp/nougat/downloads)
 	* [oreo](/aicp/oreo)
+* [Buildbot](/buildbot)
 * [Mastodon](/mastodon)
 	* [Accounts](/mastodon/accounts)
 	* [Slangs](/mastodon/slangs)
