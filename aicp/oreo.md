@@ -27,12 +27,12 @@
     - セキュリティパッチレベル: `2017-12-05`
 - 以下に挙げるアプリは無い
     - apps/
-			- Calendar
-		      * 私がGoogleカレンダーとか使うので
-			- Eleven
-			    * 私はGPM使ってるので
-			- AICP_OTA
-			    * 公式以外想定されてないので
+        - Calendar
+		        * 私がGoogleカレンダーとか使うので
+			  - Eleven
+			      * 私はGPM使ってるので
+			  - AICP_OTA
+			      * 公式以外想定されてないので
 - AICPと相容れなかった要素についての謎改変。
 	- [packages_apps_AicpExtras](https://github.com/mordiford/packages_apps_AicpExtras)
 - 最新のビルドはたぶんSlimOTAが通知します
