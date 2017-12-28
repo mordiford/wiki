@@ -41,10 +41,10 @@
 
 ### 結果
 
-- ccache無し
+- 初回（ccacheは有効にしたけど空）
 
 <iframe src="https://mstdn.maud.io/@mashiro/99250503901299675/embed" class="mastodon-embed" style="max-width: 100%; border: 0" height="200" width="600"></iframe><script src="https://mstdn.maud.io/embed.js" async="async"></script>
 
-- ccache有り (`prebuilts/misc/linux-x86/ccache/ccache -M 30G`)
+- 2回目、ccache有り（初回のキャッシュが効く）
 
 <iframe src="https://mstdn.maud.io/@mashiro/99250818017265250/embed" class="mastodon-embed" style="max-width: 100%; border: 0" height="200" width="600"></iframe><script src="https://mstdn.maud.io/embed.js" async="async"></script>
