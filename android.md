@@ -37,7 +37,13 @@
 | SSD0 | TS512GSSD370S | 512GB, SATA3(6Gbps) | Transcend |
 | SSD1 | MZ-75E500B | 500GB, SATA3 (6Gbps) | Samsung |
 
-ビルド用のディレクトリは SSD1 に作ってるけど、 `/tmp` はブート用のSSD0を指してるかも。
+- ビルド用のディレクトリは SSD1 に作ってるけど、 `/tmp` はブート用のSSD0を指してるかも。
+
+```bash
+export CCACHE_DIR=/ssd1/ccache
+export USE_CCACHE=1
+prebuilts/misc/linux-x86/ccache/ccache -M 30G
+```
 
 ### 結果
 
