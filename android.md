@@ -18,8 +18,8 @@
 
 - ccache無し
 
-<iframe src="https://mstdn.maud.io/@mashiro/99250503901299675/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400"></iframe><script src="https://mstdn.maud.io/embed.js" async="async"></script>
+<iframe src="https://mstdn.maud.io/@mashiro/99250503901299675/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="600"></iframe><script src="https://mstdn.maud.io/embed.js" async="async"></script>
 
 - ccache有り (`prebuilts/misc/linux-x86/ccache/ccache -M 30G`)
 
-<iframe src="https://mstdn.maud.io/@mashiro/99250818017265250/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400"></iframe><script src="https://mstdn.maud.io/embed.js" async="async"></script>
+<iframe src="https://mstdn.maud.io/@mashiro/99250818017265250/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="600"></iframe><script src="https://mstdn.maud.io/embed.js" async="async"></script>
