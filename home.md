@@ -9,6 +9,7 @@ mordiford の wiki です。 [Wiki.js](https://wiki.js.org/) で動いていま�
 
 # ページの一覧
 
+* [Android](/android)
 * [AICP](/aicp)
 	* [nougat](/aicp/nougat)
 		* [Downloads](/aicp/nougat/downloads)
