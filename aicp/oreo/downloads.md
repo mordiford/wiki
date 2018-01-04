@@ -19,3 +19,4 @@
 ## WIP
 
 - `oneplus3`
+- `potter`
