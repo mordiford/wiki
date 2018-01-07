@@ -14,9 +14,10 @@
 
 ## Supported
 
-- none
+| Manufacturer | device | codename | have? | alucard? | DL |
+|---:|:---|:---:|:---:|:---:|:---:|
+| Motorola | Moto G5 Plus | `potter` | :o: | [iris](https://github.com/mordiford/iris-g5p-kernel) | null |
 
 ## WIP
 
 - `oneplus3`
-- `potter`
