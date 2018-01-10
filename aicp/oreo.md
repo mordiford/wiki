@@ -18,7 +18,8 @@
 
 ## 方針
 
-- [公式Nightly Build](http://dwnld.aicp-rom.com/) が存在している機種は原則として私の手元にあるもの以外対応しない
+- 差分は少なめに
+- 公式Nightly buildがない機種優先
 - 対応機種は [mordiford/IceManifest:oreo](https://github.com/mordiford/IceManifests/projects/2) で管理する
 
 ## 特徴
