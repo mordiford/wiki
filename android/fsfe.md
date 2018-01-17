@@ -3,7 +3,7 @@
 
 # Free Your Android!
 
-Android is a [mostly free](http://www.gnu.org/philosophy/android-and-users-freedom.html) operating system developed mainly by Google. Unfortunately, the drivers for most devices and most applications from the "market" are not [free (as in free speech, not free beer)](http://fsfe.org/about/basics/freesoftware.en.html). They frequently work against the interest of the users, spy on them, and sometimes cannot even be removed.
+Android は主に Google によって開発されている [殆どは自由な](http://www.gnu.org/philosophy/android-and-users-freedom.html) オペレーティングシステムです。しかし残念ながら、殆どの端末のドライバや "マーケット" からの殆どのアプリケーションは [自由](http://fsfe.org/about/basics/freesoftware.en.html) ではありません。それらは頻繁にユーザの関心に反する動作をしたり、スパイ行為を働いたり、時には削除することすらままならないこともあります。
 
 This campaign can help you to regain control of your Android device and your data. We collect information about running an Android system as free as possible and try to coordinate the efforts in this area.
 
