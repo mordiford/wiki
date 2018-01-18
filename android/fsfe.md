@@ -9,7 +9,7 @@ This campaign can help you to regain control of your Android device and your dat
 
 You want a mobile device that is really yours when you bought it? You want a mobile device that does not spy on you and hands over your data to big corporations? Then read on!
 
-![](https://download.fsfe.org/videos/Free%20Your%20Android%20-%20EP.webm)
+[Free Your Android](https://www.youtube.com/watch?v=mYnYPcO_xUg){.youtube}
 
 ## Liberate Your Device
 
