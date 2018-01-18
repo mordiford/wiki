@@ -54,18 +54,18 @@ On some devices it can only be unlocked with clever hacks and their manufacturer
 
 ![Replicant](http://fsfe.org/campaigns/android/replicant.png)
 
-[Replicant](http://replicant.us/) is a distribution of Android that is 100% Free Software. Since it does not use any non-free drivers, it currently works on a limited number of devices.
+[Replicant](http://replicant.us/) は 100% 自由ソフトウェアな Android ディストリビューションです。いかなる不自由なドライバも使用しないため、現状では限られた端末で動作しています。
 
-We ask you to help Replicant extend its support to more devices. You can [contribute code](http://redmine.replicant.us/projects/replicant/issues), and [donate devices](https://www.fsf.org/blogs/community/donate-to-replicant-and-support-free-software-on-mobile-devices) to the Replicant team for testing purposes.
+Replicant が更に多くの端末をサポートできるように支援してください。[コードで貢献](http://redmine.replicant.us/projects/replicant/issues)することもできますし、テストのために [端末を Replicant チームへ寄付](https://www.fsf.org/blogs/community/donate-to-replicant-and-support-free-software-on-mobile-devices)することもできます。
 
-Phones with pre-installed Replicant are available from [Tehnoetic](https://tehnoetic.com/index.php?route=product/category&path=59) that donates part of the profits back to the Replicant initiative.
+Replicant をプリインストールした携帯電話は [Tehnoetic](https://tehnoetic.com/index.php?route=product/category&path=59) で入手することができ、利益の一部は Replicant へと寄付されます。
 
 ## LineageOS
 
 ![LineageOS](http://fsfe.org/campaigns/android/lineageos.png)
 
-[LineageOS](https://lineageos.org/) is a version of Android which you can use without a Google account. Even though it is usually more free than the software your device comes with, freedom is not its main objective. While LineageOS works on [most Android devices](https://wiki.lineageos.org/devices/), it makes use of [non-free device drivers and firmware](https://wiki.lineageos.org/devices/) which are fetched from a device and included in the ROM. LineageOS is the most popular fork of the discontinued CyanogenMod project.
+[LineageOS](https://lineageos.org/) は Google アカウント無しでも利用可能な Android です。通常、端末に内蔵されているソフトウェアよりも自由ではありますが、自由であることは LineageOS にとっての主な目的ではありません。LineageOS は [多くの Android 端末]((https://wiki.lineageos.org/devices/) で動作しますが、端末から取り出された不自由なデバイスドライバやファームウェアを ROM イメージに内蔵しています。LineageOS は、廃止された CyanogenMod の最も有名なフォークです。
 
-LineageOS does not contain Google Play services by default which is good for your freedom. However, if you really need some of these proprietary apps or libraries you can try the Free Software implementation [microG](https://microg.org/).
+LineageOS はデフォルトでは Google Play サービスを同梱しておらず、これは自由にとって良いことです。しかしながら、もしそれらのプロプライエタリなアプリやライブラリを必要としているのならば自由ソフトウェア実装である [microG](https://microg.org/) を使ってみることができます。
 
 We collected [information](https://fsfe.org/campaigns/android/help.html#OS) about how you can help to ensure that LineageOS and other operating systems become as good as possible, and how to identify and remove non-free parts.
