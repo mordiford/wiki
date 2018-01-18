@@ -5,9 +5,9 @@
 
 Android は主に Google によって開発されている [殆どは自由な](http://www.gnu.org/philosophy/android-and-users-freedom.html) オペレーティングシステムです。しかし残念ながら、殆どの端末のドライバや "マーケット" からの殆どのアプリケーションは [自由](http://fsfe.org/about/basics/freesoftware.en.html) ではありません。それらは頻繁にユーザの関心に反する動作をしたり、スパイ行為を働いたり、時には削除することすらままならないこともあります。
 
-This campaign can help you to regain control of your Android device and your data. We collect information about running an Android system as free as possible and try to coordinate the efforts in this area.
+このキャンペーンは Android 端末やデータの **主導権を取り戻す** ための手助けになります。私たちは、Android システムを可能な限り自由に実行するための情報を集め、それらをここで整理していきます。
 
-You want a mobile device that is really yours when you bought it? You want a mobile device that does not spy on you and hands over your data to big corporations? Then read on!
+買ったその時から本当に所有できるモバイル端末をお望みですか？あなたをスパイしたりあなたのデータを大企業に送信したりといったことをしないモバイル端末をお望みですか？続きをどうぞ！
 
 [Free Your Android](https://www.youtube.com/watch?v=mYnYPcO_xUg){.youtube}
 
