@@ -8,9 +8,9 @@ For most people, the [Google Play Store](https://play.google.com/) is the only o
 
 ## F-Droid
 
-![F-Droid](http://fsfe.org/campaigns/android/f-droid.png)
+![F-Droid](https://fsfe.org/campaigns/android/f-droid.png)
 
-The [F-Droid initiative](http://f-droid.org/) was started to change the sad Free Software app situation in the Android world. It builds a repository of easily-installable Free Software apps for the Android platform. There is an Android client application that makes it easy to browse Free Software applications, install them onto your device, and keep track of updates. Apps available on F-Droid do not contain hidden costs, are safe for children, and are transparent about possible [antifeatures](https://f-droid.org/wiki/page/AntiFeatures).
+The [F-Droid initiative](https://f-droid.org/) was started to change the sad Free Software app situation in the Android world. It builds a repository of easily-installable Free Software apps for the Android platform. There is an Android client application that makes it easy to browse Free Software applications, install them onto your device, and keep track of updates. Apps available on F-Droid do not contain hidden costs, are safe for children, and are transparent about possible [antifeatures](https://f-droid.org/wiki/page/AntiFeatures).
 
 The F-Droid repository contains details of multiple versions of each application. You can also easily create and add own repositories. But since the initiative is [very active](https://gitlab.com/fdroid/), developing in a decentralised fashion and open to collaboration, creating own repositories is not really necessary. Its goal is to include all useful Free Software Android applications and to keep up with their updates.
 
@@ -52,9 +52,9 @@ On some devices it can only be unlocked with clever hacks and their manufacturer
 
 ## Replicant
 
-![Replicant](http://fsfe.org/campaigns/android/replicant.png)
+![Replicant](https://fsfe.org/campaigns/android/replicant.png)
 
-[Replicant](http://replicant.us/) は 100% 自由ソフトウェアな Android ディストリビューションです。いかなる不自由なドライバも使用しないため、現状では限られた端末で動作しています。
+[Replicant](https://www.replicant.us/) は 100% 自由ソフトウェアな Android ディストリビューションです。いかなる不自由なドライバも使用しないため、現状では限られた端末で動作しています。
 
 Replicant が更に多くの端末をサポートできるように支援してください。[コードで貢献](http://redmine.replicant.us/projects/replicant/issues)することもできますし、テストのために [端末を Replicant チームへ寄付](https://www.fsf.org/blogs/community/donate-to-replicant-and-support-free-software-on-mobile-devices)することもできます。
 
@@ -62,7 +62,7 @@ Replicant をプリインストールした携帯電話は [Tehnoetic](https://t
 
 ## LineageOS
 
-![LineageOS](http://fsfe.org/campaigns/android/lineageos.png)
+![LineageOS](https://fsfe.org/campaigns/android/lineageos.png)
 
 [LineageOS](https://lineageos.org/) は Google アカウント無しでも利用可能な Android です。通常、端末に内蔵されているソフトウェアよりも自由ではありますが、自由であることは LineageOS にとっての主な目的ではありません。LineageOS は [多くの Android 端末]((https://wiki.lineageos.org/devices/) で動作しますが、端末から取り出された不自由なデバイスドライバやファームウェアを ROM イメージに内蔵しています。LineageOS は、廃止された CyanogenMod の最も有名なフォークです。
 
