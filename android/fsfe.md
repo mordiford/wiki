@@ -23,15 +23,15 @@ Liberating devices should be effortless, so that everybody can enjoy freedom. Th
 
 [Contribute](/android/fsfe/help)
 
-# Why Your Mobile Device Needs To Be Free
+# なぜあなたのモバイル端末は自由になる必要があるのか
 
-Mobile devices are small computers that we carry around all the time. They know our current location and contain private pictures. We use them to communicate with our friends, our family and maybe our secret love. They also provide access to the internet and have built-in camera and microphone. Being such powerful tools, they can bring great risks to privacy, but at the same time we can achieve great things with them: it depends on who controls them.
+モバイル端末はいつでもどこでも持ち運べる小さなコンピュータです。モバイル端末は私たちの現在地や保存しているプライベートな写真を知っています。私たちはモバイル端末を友人、家族、あるいは密かに思いを寄せる相手との連絡に用います。モバイル端末はインターネット接続を提供し、内蔵カメラやマイクを持っています。このように強力なツールであるために、プライバシー面で大きなリスクをもたらすおそれがありますが、同時に大きな成果を上げることもできるでしょう。それがどうなるかは、誰がモバイル端末をコントロールするかにかかっています。
 
-## Freedom and Control
+## 自由とコントロール
 
-Most mobile devices are not controlled by the users, but by the manufacturer and the operator. The software that runs on them is not Free Software. Even Android phones ship with non-free software and proprietary add-ons that often work against in the full interest of the user. Software updates will only be made available as long as the manufacturer still has a commercial interest in your device. The applications (apps) available from the official market are commonly non-free. Nobody is allowed to study how they work and what they really do on your phone. Sometimes they just don't work exactly as you want, but often times they even contain malicious features.
+殆どのモバイル端末はユーザのコントロール下になく、製造元やオペレータの下にあります。それらの端末上で動くソフトウェアは自由ソフトウェアではありません。Android 端末でさえ、多くの場合でユーザの関心に反した動作をするような不自由なソフトウェアや、プロプライエタリなアドオンを同梱して出荷されています。ソフトウェアの更新は、製造元が未だにあなたの端末に商業的に関心を持っているときに限り提供されるでしょう。アプリは一般的に不自由な公式マーケットで入手可能です。誰もそれらがどのように動作しているのか、実際にあなたの携帯電話で何をしているのかを知ることはできません。時には望みどおりに動作しないばかりか、悪意のある機能を含んでいることさえもあります。
 
-Running exclusively Free Software on your device puts you in full control. Even though you may not have the skills to directly exercise all of your freedom, you will benefit from a vibrant community that can do it together.
+あなたの端末で自由ソフトウェアのみを実行することで、端末を完全にコントロールすることができます。もし自由の全てを直接的に行使するだけのスキルを持ち合わせていなくても、それを一緒に行える活気のあるコミュニティによる恩恵を受けられるでしょう。
 
 ## Privacy
 
