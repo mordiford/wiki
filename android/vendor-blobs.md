@@ -3,7 +3,7 @@
 
 # 参考
 
-https://wiki.lineageos.org/proprietary_blobs.html
+[Working with proprietary blobs | LineageOS Wiki](https://wiki.lineageos.org/proprietary_blobs.html)
 
 # 概要
 
@@ -12,4 +12,9 @@ https://wiki.lineageos.org/proprietary_blobs.html
 ## 流れ
 
 - `${ANDROID_ROOT}/device/${VENDOR}/${DEVICE}/` 以下に `proprietary-files.txt` を持つ。
-- `extract-files.sh` と `setup-makefiles.sh` は `vendor/cm/build/template/` から （15.0 以降では `/vendor/lineage/build/template`）コピーして `DEVICE` と `VENDOR` を記入する。
+	- これ書くのが一番厳しいのでは（移植マンではないのでなんもわからん）
+	- 書き方は参考のLineageOS Wikiや構成が近い他機種覗くと良いのかもしれない
+- `extract-files.sh` と `setup-makefiles.sh` は `vendor/cm/build/template/` から （15.0 以降では `/vendor/lineage/build/template`）コピーして `DEVICE` と `VENDOR` を記入する
+- 端末を接続してadbが通る状態にしておく
+- `extract-files.sh` を実行する
+- いい感じに `${ANDROID_ROOT}/vendor/${VENDOR}/${DEVICE}/` 以下に配置される（はず）
