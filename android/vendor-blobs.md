@@ -21,3 +21,14 @@
 	- いきなりAICPとかの派生ROMでやってるとたぶん `vendor/cm` が見つからないと思うので `HELPER` のパスをちゃんと変えておきたい
 		- そもそも移植やろうとしてるときにあんまり余計な要素挟まないほうがいいのはそれはそうで、LOSでやるべき
 - いい感じに `${ANDROID_ROOT}/vendor/${VENDOR}/${DEVICE}/` 以下に配置される（はず）
+
+## おまけ
+
+block-based OTA(zipの中身に `/system` とかがなくて `system.new.dat` みたいになってるやつ)が有効なLineageOSのzipから `sdat2img` 使ってブロブ取り出す方法。
+やったことはあるけど知見まとめてなかったらいつの間にかwikiにも載ってたね。
+
+[Extracting proprietary blobs from LineageOS zip files](https://wiki.lineageos.org/extracting_blobs_from_zips.html)
+
+NexusとかのFactory Imageをマウントして取り出すみたいなのは https://dev.maud.io/entry/2016/12/28/howto-build-lineageos-14/ の途中でさらっと書いた気がします。
+
+結局 `proprietary-files.txt` がキモなのには変わりないので頑張っていきましょう。
