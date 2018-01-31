@@ -17,7 +17,8 @@
 | Manufacturer | device | codename | have? | alucard? | DL |
 |---:|:---|:---:|:---:|:---:|:---:|
 | Motorola | Moto G5 Plus | `potter` | :o: | [iris](https://github.com/mordiford/iris-g5p-kernel) | null |
+| OnePlus | 3/3T | `oneplus3` | :o: | [kazari](https://github.com/mordiford/kazari-op3-kernel) | null |
 
 ## WIP
 
-- `oneplus3`
+- `gemini`
