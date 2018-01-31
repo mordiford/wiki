@@ -12,4 +12,8 @@
 
 - 招待URL: [https://discord.gg/dFZstUz](https://discord.gg/dFZstUz)
 
-<iframe src="https://discordapp.com/widget?id=364646107478753280&theme=dark" width="480" height="720" allowtransparency="true" frameborder="0"></iframe>
+## HelloLineage
+
+AICP-mordifordを中心としたｱﾝﾖﾖｲﾖ周りの情報をまとめてたりテスターの募集をしてたりします。
+
+- 招待URL: [https://bit.ly/hellolineage](https://bit.ly/hellolineage)
