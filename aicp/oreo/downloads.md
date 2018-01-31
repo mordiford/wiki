@@ -18,7 +18,4 @@
 |---:|:---|:---:|:---:|:---:|:---:|
 | Motorola | Moto G5 Plus | `potter` | :o: | [iris](https://github.com/mordiford/iris-g5p-kernel) | null |
 | OnePlus | 3/3T | `oneplus3` | :o: | [kazari](https://github.com/mordiford/kazari-op3-kernel) | null |
-
-## WIP
-
-- `gemini`
+| Xiaomi | Mi 5 | `gemini` | :x: | [nanami](https://github.com/mordiford/nanami-mi5-kernel) | null |
