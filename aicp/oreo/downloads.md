@@ -5,7 +5,7 @@
 
 ## Supported
 
-| Manufacturer | device | codename | have? | alucard? | DL |
+| Manufacturer | device | codename | have? | kernel | DL |
 |---:|:---|:---:|:---:|:---:|:---:|
 | OnePlus | 3/3T | `oneplus3` | :o: | [kazari](https://github.com/mordiford/kazari-op3-kernel) | null |
 | Google (LGE) | Nexus 5 | `hammerhead` | :o: | ✖️ | null |
@@ -14,7 +14,7 @@
 
 ## Supported
 
-| Manufacturer | device | codename | have? | alucard? | DL |
+| Manufacturer | device | codename | have? | kernel | DL |
 |---:|:---|:---:|:---:|:---:|:---:|
 | Motorola | Moto G5 Plus | `potter` | :o: | [iris](https://github.com/mordiford/iris-g5p-kernel) | [tested](https://cloud.akane.blue/nextcloud/s/N8pgnXze4J5kaCW) |
 | OnePlus | 3/3T | `oneplus3` | :o: | [kazari](https://github.com/mordiford/kazari-op3-kernel) | [tested](https://cloud.akane.blue/nextcloud/s/tPyvweCrT5RWwmK) |
