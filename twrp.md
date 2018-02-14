@@ -36,3 +36,7 @@ oneplus3の場合。
   <project name="TeamWin/android_device_oneplus_oneplus3" path="device/oneplus/oneplus3" remote="github" revision="android-8.1" />
 </manifest>
 ```
+
+### おまけ
+
+https://cloud.akane.blue/nextcloud/s/oFj33pNXxo5Ngtp
