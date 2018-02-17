@@ -11,8 +11,8 @@
 
 連絡先として利用可能な経路の一覧
 
-| service | username@instance | about |
-|:---|:---|:---|
+| service | username | about |
+|:---:|:---:|:---|
 | Mastodon | [hota@mstdn.maud.io](https://mstdn.maud.io/@hota) | Directでメンション投げてね。稀に通知欄の彼方に流されるよ。
 | Discord | [hota#4982](/discord) | ダイレクトメッセージで伝えてね。よく見てるよ
 | Keybase | [lindwurm (hota)](https://keybase.io/hota) | 実は携帯に入れてなくてPCでしか対応できないとの噂だよ。
