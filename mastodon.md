@@ -13,7 +13,8 @@
 * GitHub [lindwurm/mastodon: - a mastodon instance](https://github.com/lindwurm/mastodon)
 * [mstdn.maud.io - :don:](https://mstdn.maud.io/about)
 
-## Wiki 子ページ
+# Wiki 子ページ
 
 * [hotaのアカウント一覧](/mastodon/accounts)
 * [末代鯖のスラング一覧](/mastodon/slangs)
+* [アカウント削除について](/mastodon/delete-account)
