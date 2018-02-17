@@ -6,7 +6,7 @@
 とりあえず GitHub:@lindwurm が本人なことの証明とかしておく
 
 * https://keybase.io/hota
-* https://gist.github.com/lindwurm/a2a2d7860a331cd41bbadaa3dc05f47f
+* https://gist.github.com/lindwurm/4a3b6f8c70f400f0d6b6565952fe25b5
 
 ## OStatus/ActivityPub Fediverse 上のアカウントの一覧
 
@@ -15,11 +15,11 @@
 
 | ? | username@instance | about |
 |:---:|:---|:---|
-| :o: | [hota@mstdn.maud.io](https://mstdn.maud.io/@hota) | Main. 自鯖。
-| :o: | [hota@mstdn.io](https://mstdn.io/@hota) | メンテ時退避先
-| :o: | [hota@mstdn.nere9.help](https://mstdn.nere9.help/@hota) | 寝れない
+| :o: | [hota@mstdn.maud.io](https://mstdn.maud.io/@hota) | Main/自鯖
+| :o: | [hota@mstdn.nere9.help](https://mstdn.nere9.help/@hota) | 寝れない/退避先
+| :o: | [hota@mstdn.io](https://mstdn.io/@hota) | 名残
 | :o: | [hota@mstdn.jp](https://mstdn.jp/@hota) | 名残
-| :o: | [hota@social.mikutter.hachune.net](https://social.mikutter.hachune.net/@hota) | ておくれ
+| :x: | [hota@social.mikutter.hachune.net](https://social.mikutter.hachune.net/@hota) | ておくれ
 | :x: | [hota@kyubitter.xyz](https://kyubitter.xyz/hota) | きつね
 | :x: | [lindwurm@freezepeach.xyz](https://freezepeach.xyz/lindwurm) | 旧
 | :x: | [lindwurm@mastodon.social](https://mastodon.social/@lindwurm) | 発掘された [*]
