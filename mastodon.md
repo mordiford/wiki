@@ -17,9 +17,3 @@
 
 * [hotaのアカウント一覧](/mastodon/accounts)
 * [末代鯖のスラング一覧](/mastodon/slangs)
-
-## おまけ
-
-* [PCゲー用Discord](https://discord.gg/dFZstUz)
-
-<iframe src="https://discordapp.com/widget?id=364646107478753280&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0"></iframe>
