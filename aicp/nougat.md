@@ -9,7 +9,7 @@
 
 ## How to use
 
-**https://github.com/IceLegacy/platform_manifest**
+使い方はかんたん！AICPの代わりに **https://github.com/IceLegacy/platform_manifest** を `repo init` するだけ！
 
 # AICP-mordiford
 
