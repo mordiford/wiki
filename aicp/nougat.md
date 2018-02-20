@@ -1,6 +1,16 @@
 <!-- TITLE: nougat -->
 <!-- SUBTITLE: AICP-n-12.1 -->
 
+# IceLegacy (AICP-N-12.1 + LOS-14.1 patch)
+
+## 何
+
+公式ビルドとリポジトリの更新が止まったけどo8.1はまだ移植されてない端末多いし、cm-14.1はまだ少し更新が続いているので勝手にパッチ当てて動かしていこうの会
+
+## How to use
+
+**https://github.com/IceLegacy/platform_manifest**
+
 # AICP-mordiford
 
 [![](https://lindwurm.neocities.org/img/discord_banner_mini.png)](https://bit.ly/hellolineage)
