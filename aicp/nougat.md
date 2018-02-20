@@ -16,7 +16,8 @@
 {.is-danger}
 
 - **非公式版です**
-    - わたしは毎日は更新しないはずなので、公式のNightlyビルドが欲しかったら http://dwnld.aicp-rom.com/ へどうぞ
+    - ~~わたしは毎日は更新しないはずなので、公式のNightlyビルドが欲しかったら http://dwnld.aicp-rom.com/ へどうぞ~~
+    - 公式ビルドは提供されなくなりました
 - AICPでサポートされている機種の場合であっても、公式ビルドとの互換性はだいたい無いです。
     - 違うリポジトリからの派生で独自にAICP対応してるので…
     - 公式ビルドからの**上書きインストールによる移行は非推奨**とし、バグ報告は**受理しません**
@@ -33,7 +34,7 @@
 ## 特徴
 
 - `android-7.1.2_r36`
-    - セキュリティパッチレベル: `2017-12-05`
+    - セキュリティパッチレベル: `2018-02-05`
 - KRACK, Blueborne対応済
 - 一部機種のkernel: cpufreq_alucard の追加
     - 快適な動作とそこそこなバッテリ持ちを両立できる、一押しのCPUガバナ
@@ -47,9 +48,6 @@
         - AICP_OTA
             - 公式以外想定されてないのでもう最初から外した
                 - OFFICIALじゃないとビルドされないようになってるけどね…
-- AICP本家に取り込まれる前の翻訳テスト版。
-    - [frameworks_base](https://github.com/mordiford/frameworks_base)
-    - [packages_apps_AicpExtras](https://github.com/mordiford/packages_apps_AicpExtras)
 - SlimOTAによる新着ビルド通知を始めました
     - 普通に焼いてもらうけどね
 - **[Magisk](https://forum.xda-developers.com/apps/magisk/official-magisk-v7-universal-systemless-t3473445)** がAICP本家に入りましたがrevertしています
