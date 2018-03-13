@@ -64,7 +64,7 @@ Replicant をプリインストールした携帯電話は [Tehnoetic](https://t
 
 ![LineageOS](https://fsfe.org/campaigns/android/lineageos.png)
 
-[LineageOS](https://lineageos.org/) は Google アカウント無しでも利用可能な Android です。通常、端末に内蔵されているソフトウェアよりも自由ではありますが、自由であることは LineageOS にとっての主な目的ではありません。LineageOS は [多くの Android 端末]((https://wiki.lineageos.org/devices/) で動作しますが、端末から取り出された不自由なデバイスドライバやファームウェアを ROM イメージに内蔵しています。LineageOS は、廃止された CyanogenMod の最も有名なフォークです。
+[LineageOS](https://lineageos.org/) は Google アカウント無しでも利用可能な Android です。通常、端末に内蔵されているソフトウェアよりも自由ではありますが、自由であることは LineageOS にとっての主な目的ではありません。LineageOS は [多くの Android 端末](https://wiki.lineageos.org/devices/) で動作しますが、端末から取り出された不自由なデバイスドライバやファームウェアを ROM イメージに内蔵しています。LineageOS は、廃止された CyanogenMod の最も有名なフォークです。
 
 LineageOS はデフォルトでは Google Play サービスを同梱しておらず、これは自由にとって良いことです。しかしながら、もしそれらのプロプライエタリなアプリやライブラリを必要としているのならば自由ソフトウェア実装である [microG](https://microg.org/) を使ってみることができます。
 
