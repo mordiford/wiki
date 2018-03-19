@@ -18,7 +18,8 @@
 + PRODUCT_BUILD_PROP_OVERRIDES += BUILD_VERSION_TAGS=release-keys BUILD_UTC_DATE=$(shell date +"%s")
 ```
 
-- release-keysはともかくandroid-buildに固定する理由とは…
+- これで普通にビルドしてるユーザを指すようになった。
+- `release-keys` はともかく `android-build` に固定する理由とは…
 
 ## 試行錯誤録
 
