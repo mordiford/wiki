@@ -13,6 +13,11 @@
 - `sed 's/android-build/lindwurm/g' vendor/aicp/config/version.mk` しても途中で上書きされてて意味なかった（これはどこから？）ので、`vendor_aicp/config/version.mk` のoverrideを消すcommitを入れるしかなさそう。
 	- 入れた https://github.com/mordiford/vendor_aicp/commit/869d6743b6bd7594d0578c800d6664df16d2882a
 
+```diff
+- PRODUCT_BUILD_PROP_OVERRIDES += BUILD_VERSION_TAGS=release-keys USER=android-build BUILD_UTC_DATE=$(shell date +"%s")
++ PRODUCT_BUILD_PROP_OVERRIDES += BUILD_VERSION_TAGS=release-keys BUILD_UTC_DATE=$(shell date +"%s")
+```
+
 ## 試行錯誤録
 
 - `ro.build.user` でLOSのorg内を検索する
