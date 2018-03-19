@@ -18,7 +18,12 @@
 + PRODUCT_BUILD_PROP_OVERRIDES += BUILD_VERSION_TAGS=release-keys BUILD_UTC_DATE=$(shell date +"%s")
 ```
 
+- release-keysはともかくandroid-buildに固定する理由とは…
+
 ## 試行錯誤録
+
+トゥート: https://mstdn.maud.io/@hota/99706238626603169
+
 
 - `ro.build.user` でLOSのorg内を検索する
 - `build/tools/buildinfo.sh` にそれっぽいのがある
