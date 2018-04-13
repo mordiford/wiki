@@ -22,3 +22,5 @@
 | Xiaomi | Mi 5 | `gemini` | :x: | [nanami](https://github.com/mordiford/nanami-mi5-kernel) | msm8996 | [AkaneCloud](https://cloud.akane.blue/nextcloud/s/PbGugWPefp9fFNZ?path=%2Fgemini) |
 | Samsung | Galaxy Tab S2 8.0 (2016) Wi-Fi | `gts28vewifi` | :o: | :x: | msm8976 | [AkaneCloud](https://cloud.akane.blue/nextcloud/s/PbGugWPefp9fFNZ?path=%2Fgts28vewifi) |
 | Google (LGE) | Nexus 5 | `hammerhead` | :o: | :x: | msm8974 | [AkaneCloud](https://cloud.akane.blue/nextcloud/s/PbGugWPefp9fFNZ?path=%2Fhammerhead) |
+| OnePlus | 5 | `cheeseburger` | :o: | [sora](https://github.com/mordiford/sora-op5-kernel) | msm8998 | [AkaneCloud](https://cloud.akane.blue/nextcloud/s/PbGugWPefp9fFNZ?path=%2Fcheeseburger) |
+| OnePlus | 5T | `dumpling` | :x: | [sora](https://github.com/mordiford/sora-op5-kernel) | msm8998 | [AkaneCloud](https://cloud.akane.blue/nextcloud/s/PbGugWPefp9fFNZ?path=%2Fdumpling) |
