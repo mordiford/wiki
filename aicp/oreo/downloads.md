@@ -17,7 +17,7 @@
 | Manufacturer | device | codename | have? | kernel | SoC | DL |
 |---:|:---|:---:|:---:|:---:|:---:|:---:|
 | Motorola | Moto G5 Plus | `potter` | :o: | [iris](https://github.com/mordiford/iris-g5p-kernel) | msm8953 | [AkaneCloud](https://cloud.akane.blue/nextcloud/s/PbGugWPefp9fFNZ?path=%2Fpotter) |
-| OnePlus | 3/3T | `oneplus3` | :o: | [kazari](https://github.com/mordiford/kazari-op3-kernel) | msm8996 | [AkaneCloud](https://cloud.akane.blue/nextcloud/s/PbGugWPefp9fFNZ?path=%2Foneplus3) |
+| OnePlus | 3/3T | `oneplus3` | :x: | [kazari](https://github.com/mordiford/kazari-op3-kernel) | msm8996 | [AkaneCloud](https://cloud.akane.blue/nextcloud/s/PbGugWPefp9fFNZ?path=%2Foneplus3) |
 | ZUK (Lenovo) | Z2/Z2 Plus | `z2_plus` | :x: | [miyu](https://github.com/mordiford/miyu-z2-kernel) | msm8996 | [AkaneCloud](https://cloud.akane.blue/nextcloud/s/PbGugWPefp9fFNZ?path=%2Fz2_plus) |
 | Xiaomi | Mi 5 | `gemini` | :x: | [nanami](https://github.com/mordiford/nanami-mi5-kernel) | msm8996 | [AkaneCloud](https://cloud.akane.blue/nextcloud/s/PbGugWPefp9fFNZ?path=%2Fgemini) |
 | Samsung | Galaxy Tab S2 8.0 (2016) Wi-Fi | `gts28vewifi` | :o: | :x: | msm8976 | [AkaneCloud](https://cloud.akane.blue/nextcloud/s/PbGugWPefp9fFNZ?path=%2Fgts28vewifi) |
