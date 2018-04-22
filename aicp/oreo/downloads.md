@@ -5,6 +5,8 @@
 
 ## Supported
 
+- **moved to 8.1**
+
 | Manufacturer | device | codename | have? | kernel | DL |
 |---:|:---|:---:|:---:|:---:|:---:|
 | OnePlus | 3/3T | `oneplus3` | :o: | [kazari](https://github.com/mordiford/kazari-op3-kernel) | null |
