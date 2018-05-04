@@ -11,6 +11,7 @@ mordiford の wiki です。 [Wiki.js](https://wiki.js.org/) で動いていま�
 
 * [Android](/android)
 * [AICP](/aicp)
+	* [build.prop](/aicp/build-prop)
 	* [nougat](/aicp/nougat)
 		* [Downloads](/aicp/nougat/downloads)
 	* [oreo](/aicp/oreo)
