@@ -15,6 +15,7 @@
 
 # Wiki 子ページ
 
+* [このインスタンスについて](/mastodon/about)
 * [hotaのアカウント一覧](/mastodon/accounts)
 * [末代鯖のスラング一覧](/mastodon/slangs)
 * [アカウント削除について](/mastodon/delete-account)
