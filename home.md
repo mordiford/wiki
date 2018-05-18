@@ -20,6 +20,7 @@ mordiford の wiki です。 [Wiki.js](https://wiki.js.org/) で動いていま�
 * [Discord](/discord)
 * [madoka](/madoka)
 * [Mastodon](/mastodon)
+	* [about](/mastodon/about)
 	* [Accounts](/mastodon/accounts)
 	* [Delete Account from mstdn.maud.io](/mastodon/delete-account)
 	* [Slangs](/mastodon/slangs)
