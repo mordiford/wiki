@@ -16,6 +16,8 @@
 
 ## Supported
 
+[![](https://lindwurm.neocities.org/img/download_mini.png)](https://cloud.akane.blue/nextcloud/s/PbGugWPefp9fFNZ)
+
 | Manufacturer | device | codename | have? | kernel | SoC | DL |
 |---:|:---|:---:|:---:|:---:|:---:|:---:|
 | Motorola | Moto G5 Plus | `potter` | :o: | [iris](https://github.com/mordiford/iris-g5p-kernel) | msm8953 | [AkaneCloud](https://cloud.akane.blue/nextcloud/s/PbGugWPefp9fFNZ?path=%2Fpotter) |
