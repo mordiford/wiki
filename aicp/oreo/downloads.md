@@ -32,3 +32,11 @@
 | LeEco | Le Max 2 | `x2` | :x: | :x: | msm8996 | [AkaneCloud](https://cloud.akane.blue/nextcloud/s/PbGugWPefp9fFNZ?path=%2Fx2) |
 | Nubia | Z9 Max | `nx512j` | :x: | :x: | msm8939 | [AkaneCloud](https://cloud.akane.blue/nextcloud/s/PbGugWPefp9fFNZ?path=%2Fnx512j) |
 | ZTE | Axon 7 | `axon7` | :x: | :x: | msm8996 | [AkaneCloud](https://cloud.akane.blue/nextcloud/s/PbGugWPefp9fFNZ?path=%2Faxon7) |
+
+## note
+
+### `z2_plus`
+
+- 6/14以降はTreble版になるので対応した新しいTWRPとFactory2Vendorが必要です。
+- 下記リンク先の "Instructions" を参照の上、ダウンロードしてください。
+- https://forum.xda-developers.com/lenovo-zuk-z2/development/rom-lineageos-15-1-lenovo-zuk-z2-plus-t3799778
