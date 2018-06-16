@@ -35,6 +35,8 @@
 
 ## note
 
+機種固有の注意事項です
+
 ### `z2_plus`
 
 - 6/14以降はTreble版になるので対応した新しいTWRPとFactory2Vendorが必要です。
